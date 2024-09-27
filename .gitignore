@@ -1,12 +1,5 @@
-gpt-3.5/data2/*.csv
-gpt-3.5/data2/1-CoT/*.csv
-gpt-3.5/data2/2-CoT/*.csv
-gpt-3.5/data2/3-CoT/*.csv
-gpt-3.5/data2/4-CoT/*.csv
-gpt-3.5/data2/baseline/*.csv
-gpt-3.5/data2/one_shot/*.csv
-gpt-3.5/data2/overall/*.csv
-gpt-3.5/data2/zero_shot/*.csv
+*.csv
+*.txt
+*Zone.Identifier
 !gpt-3.5/data2/ground_truth_datasets/*.csv
 !gpt-3.5/data2/ground_truth_datasets/**/*.csv
-
