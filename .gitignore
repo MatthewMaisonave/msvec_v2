@@ -1,6 +1,11 @@
-__pycache__/
-.ipynb_checkpoints
-**/data/*
-**/checkpoints/*
-**/prediction/*
-**/scratch/*
+data2/*.csv
+data2/1-CoT/*.csv
+data2/2-CoT/*.csv
+data2/3-CoT/*.csv
+data2/4-CoT/*.csv
+data2/baseline/*.csv
+data2/one_shot/*.csv
+data2/overall/*.csv
+data2/zero_shot/*.csv
+!data2/ground_truth_datasets/*.csv
+!data2/ground_truth_datasets/**/*.csv
