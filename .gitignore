@@ -1,5 +1,6 @@
 *.csv
 *.txt
+gpt-3.5/data2/*
 *Zone.Identifier
 !gpt-3.5/data2/ground_truth_datasets/*.csv
 !gpt-3.5/data2/ground_truth_datasets/**/*.csv
